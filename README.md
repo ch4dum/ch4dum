@@ -1,6 +1,6 @@
 ## Tammapol
 
-<img alt = "my stats" align = "left" src="https://github-readme-stats.vercel.app/api?username=ch4dum"/>
+<img alt = "my stats" align = "left" width = "45%" src="https://github-readme-stats.vercel.app/api?username=ch4dum"/>
 <img alt = "top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch4dum&layout=compact"/>
 <!--
 **ch4dum/ch4dum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
