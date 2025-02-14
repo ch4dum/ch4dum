@@ -1,8 +1,9 @@
 ## Tammapol
+<!--
 
 <img alt = "my stats" align = "left" width = "45%" src="https://github-readme-stats.vercel.app/api?username=ch4dum&theme=transparent"/>
 <img alt = "top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch4dum&layout=compact&theme=transparent"/>
-<!--
+
 **ch4dum/ch4dum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
